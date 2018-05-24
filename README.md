@@ -1,1 +1,0 @@
-bu raspberry projesının dosyasıdır
